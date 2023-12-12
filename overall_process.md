@@ -1,0 +1,5 @@
+# Overall process and decision making
+
+The audience for this part of the document is your cross-functional team, which includes engineers, user researchers, and product managers. This means that everyone on the team has a technical background, but not everyone writes code. What they’re interested in is understanding how you arrived at your solution, so they can gain insight into your problem solving process. Avoid too much technical jargon, and use plain language as much as possible.
+
+The way I arrived at my solution was actually to try to solve this first with Ruby, which is the programming language I am most familiar with. After doing that, it became a lot easier to understand what I needed to do. The first step in my process is always to look at the problem from a higher level, and try to understand exactly what is being asked. After that, I try to pick holes in the problem and come up with some edge cases that may or may not have been tested for, and then I go through a series of iterations to try to find out what works and what doesn't.
